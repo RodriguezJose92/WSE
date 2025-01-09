@@ -7,7 +7,7 @@ const btnWhats = () => {
 
     const img = document.createElement('IMG');
     img.classList.add('btnWhatsApp');
-    img.scr="https://cdn-icons-png.freepik.com/256/2496/2496112.png?semt=ais_hybrid";
+    img.scr="https://cdn.jsdelivr.net/gh/RodriguezJose92/WSE@latest/iconWhats.png";
 
     containerFahter.appendChild(img)
 
